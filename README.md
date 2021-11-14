@@ -1,4 +1,4 @@
-# UIX-Coin-
+# UIX-Coin
 UIX Coin SHA256
 DESCRIPTION
 UIX Coin Wallet is built on Userinterface Core, a sha 256 hash exactly like Bitcoin. UserInterface or UIX is the main currency of the UIX Network. UserInterface is a fully mineable, permissionless cryptocurrency. It’s value is derived from it’s usage and activity on the UIX Network, which is an online community with a built in ecosystem for entrepreneurs.
